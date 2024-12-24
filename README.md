@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TauseefSaadat
-- 👀 I’m interested in dOing java projects
+- 👀 I’m interested in doing java projects
 - 🌱 I’m currently learning BsCS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  using my whatsapp no 03339577047
